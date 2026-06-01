@@ -1,1 +1,10 @@
-
+Type,Tag Name,PLC Address,Description
+Input,Start_PB,I0.0,Momentary - starts conveyor
+Input,Stop_PB,I0.1,Momentary - stops conveyor
+Input,E_Stop,I0.2,NC contact - emergency stop
+Input,LS_Right,I0.3,Right limit switch (belt alignment)
+Input,LS_Left,I0.4,Left limit switch (belt alignment)
+Input,Photo_Sensor,I0.5,Product detection for counting
+Input,Reset_PB,I0.6,Resets alignment fault latch
+Input,Mode_Selector,I0.7,AUTO=1 / MANUAL=0 (also selects 10 or 20 products)
+Output,Motor_Run,Q0.0,Conveyor motor contactor
