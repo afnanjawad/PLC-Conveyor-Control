@@ -111,6 +111,12 @@ All 6 network ladder logic screenshots are in the [`02_Screenshots/`](02_Screens
 
 ---
 
+## Working video of the Project
+
+https://youtu.be/AiWgZW73UTY
+
+---
+
 ## 📝 Author
 
 **Afnan Jawad**
